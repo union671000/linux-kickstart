@@ -1,0 +1,1472 @@
+mount: /mnt: /dev/sr0 already mounted or mount point busy.
+/bin/mkdir: cannot create directory '/repo': File exists
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use "rhc" or "subscription-manager" to register.
+
+0 files removed
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use "rhc" or "subscription-manager" to register.
+
+repo id                                 repo name
+appstream                               appstream
+baseos                                  baseos
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+'/etc/sysctl.conf' -> '/root/backup/sysctl.conf'
+'/etc/selinux/config' -> '/root/backup/config'
+'/etc/NetworkManager/NetworkManager.conf' -> '/root/backup/NetworkManager.conf'
+'/etc/crontab' -> '/root/backup/crontab'
+'/etc/security/limits.conf' -> '/root/backup/limits.conf'
+'/etc/default/grub' -> '/root/backup/grub'
+'/boot/grub2/grub.cfg' -> '/root/backup/grub.cfg'
+'/etc/ssh/sshd_config' -> '/root/backup/sshd_config'
+'/etc/kdump.conf' -> '/root/backup/kdump.conf'
+'/usr/bin/kdumpctl' -> '/root/backup/kdumpctl'
+'/etc/systemd/system.conf' -> '/root/backup/system.conf'
+'/etc/skel/.bash_profile' -> '/root/backup/.bash_profile'
+'/etc/pam.d/su' -> '/root/backup/su'
+removed '/root/backup/password-auth'
+'/etc/pam.d/password-auth' -> '/root/backup/password-auth'
+'/etc/authselect/system-auth' -> '/root/backup/system-auth'
+/bin/cp: '/etc/authselect/password-auth' and '/root/backup/password-auth' are the same file
+'/etc/logrotate.d/rsyslog' -> '/root/backup/rsyslog'
+'/etc/rsyslog.conf' -> '/root/backup/rsyslog.conf'
+'/etc/profile' -> '/root/backup/profile'
+'/etc/logrotate.conf' -> '/root/backup/logrotate.conf'
+'/etc/security/limits.d/25-pw-rlimits.conf' -> '/root/backup/25-pw-rlimits.conf'
+'/etc/lvm/lvm.conf' -> '/root/backup/lvm.conf'
+'/etc/chrony.conf' -> '/root/backup/chrony.conf'
+Running `grub2-mkconfig -o /boot/efi/EFI/redhat/grub.cfg' will overwrite the GRUB wrapper.
+Please run `grub2-mkconfig -o /boot/grub2/grub.cfg' instead to update grub.cfg.
+GRUB configuration file was not updated.
+Running in chroot, ignoring command 'daemon-reload'
+Running in chroot, ignoring command 'daemon-reexec'
+Make sure that SSSD service is configured and enabled. See SSSD documentation for more information.
+
+Created symlink /etc/systemd/system/alsa-restore.service -> /dev/null.
+Created symlink /etc/systemd/system/alsa-state.service -> /dev/null.
+Created symlink /etc/systemd/system/alsa-store.service -> /dev/null.
+Created symlink /etc/systemd/system/multi-user.target.wants/chronyd.service -> /usr/lib/systemd/system/chronyd.service.
+The unit files have no installation config (WantedBy=, RequiredBy=, Also=,
+Alias= settings in the [Install] section, and DefaultInstance= for template
+units). This means they are not meant to be enabled or disabled using systemctl.
+ 
+Possible reasons for having this kind of units are:
+* A unit may be statically enabled by being symlinked from another unit's
+  .wants/ or .requires/ directory.
+* A unit's purpose may be to act as a helper for some other unit which has
+  a requirement dependency on it.
+* A unit may be started when needed via activation (socket, path, timer,
+  D-Bus, udev, scripted systemctl call, ...).
+* In case of template units, the unit is meant to be enabled with some
+  instance name specified.
+Removed "/etc/systemd/system/multi-user.target.wants/atd.service".
+Removed "/etc/systemd/system/graphical.target.wants/accounts-daemon.service".
+Removed "/etc/systemd/system/multi-user.target.wants/avahi-daemon.service".
+Removed "/etc/systemd/system/sockets.target.wants/avahi-daemon.socket".
+Removed "/etc/systemd/system/dbus-org.freedesktop.Avahi.service".
+Removed "/etc/systemd/system/dbus-org.bluez.service".
+Removed "/etc/systemd/system/bluetooth.target.wants/bluetooth.service".
+Removed "/etc/systemd/system/multi-user.target.wants/firewalld.service".
+Removed "/etc/systemd/system/dbus-org.fedoraproject.FirewallD1.service".
+Removed "/etc/systemd/system/sysinit.target.wants/iscsi-starter.service".
+Removed "/etc/systemd/system/sysinit.target.wants/iscsi-onboot.service".
+Removed "/etc/systemd/system/multi-user.target.wants/libstoragemgmt.service".
+Removed "/etc/systemd/system/sysinit.target.wants/lvm2-monitor.service".
+Removed "/etc/systemd/system/multi-user.target.wants/mdmonitor.service".
+Removed "/etc/systemd/system/multi-user.target.wants/ModemManager.service".
+Removed "/etc/systemd/system/dbus-org.freedesktop.ModemManager1.service".
+Removed "/etc/systemd/system/multi-user.target.wants/rhsmcertd.service".
+Removed "/etc/systemd/system/multi-user.target.wants/smartd.service".
+Removed "/etc/systemd/system/graphical.target.wants/rtkit-daemon.service".
+The unit files have no installation config (WantedBy=, RequiredBy=, Also=,
+Alias= settings in the [Install] section, and DefaultInstance= for template
+units). This means they are not meant to be enabled or disabled using systemctl.
+ 
+Possible reasons for having this kind of units are:
+* A unit may be statically enabled by being symlinked from another unit's
+  .wants/ or .requires/ directory.
+* A unit's purpose may be to act as a helper for some other unit which has
+  a requirement dependency on it.
+* A unit may be started when needed via activation (socket, path, timer,
+  D-Bus, udev, scripted systemctl call, ...).
+* In case of template units, the unit is meant to be enabled with some
+  instance name specified.
+Removed "/etc/systemd/system/multi-user.target.wants/rpcbind.service".
+Removed "/etc/systemd/system/multi-user.target.wants/NetworkManager.service".
+Removed "/etc/systemd/system/dbus-org.freedesktop.nm-dispatcher.service".
+Removed "/etc/systemd/system/network-online.target.wants/NetworkManager-wait-online.service".
+Removed "/etc/systemd/system/local-fs.target.wants/ostree-remount.service".
+Removed "/etc/systemd/system/dev-virtio\x2dports-org.qemu.guest_agent.0.device.wants/qemu-guest-agent.service".
+The unit files have no installation config (WantedBy=, RequiredBy=, Also=,
+Alias= settings in the [Install] section, and DefaultInstance= for template
+units). This means they are not meant to be enabled or disabled using systemctl.
+ 
+Possible reasons for having this kind of units are:
+* A unit may be statically enabled by being symlinked from another unit's
+  .wants/ or .requires/ directory.
+* A unit's purpose may be to act as a helper for some other unit which has
+  a requirement dependency on it.
+* A unit may be started when needed via activation (socket, path, timer,
+  D-Bus, udev, scripted systemctl call, ...).
+* In case of template units, the unit is meant to be enabled with some
+  instance name specified.
+/bin/chmod: cannot access '/tmp/MvShareMemory0': No such file or directory
+/bin/chmod: cannot access '/tmp/vgname': No such file or directory
+/bin/chmod: cannot access '/tmp/pvinfo': No such file or directory
+/bin/chmod: cannot access '/tmp/petra_cipher_api.log': No such file or directory
+/bin/chmod: cannot access '/root/.esd_auth': No such file or directory
+/bin/chmod: cannot access '/root/.ICE*': No such file or directory
+/bin/chmod: cannot access '/root/.cache/': No such file or directory
+/bin/chmod: cannot access '/root/.dbus/': No such file or directory
+/bin/chmod: cannot access '/root/.local/': No such file or directory
+/bin/chmod: cannot access '/root/.config/': No such file or directory
+/bin/sed: can't read /etc/cron.d/rear: No such file or directory
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use "rhc" or "subscription-manager" to register.
+
+No match for argument: libvirt-*
+No packages marked for removal.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use "rhc" or "subscription-manager" to register.
+
+Dependencies resolved.
+================================================================================
+ Package                      Arch     Version               Repository    Size
+================================================================================
+Removing:
+ cups                         x86_64   1:2.3.3op2-30.el9     @AppStream   7.6 M
+Removing dependent packages:
+ gutenprint-cups              x86_64   5.3.4-4.el9           @AppStream   1.0 M
+ pnm2ppa                      x86_64   1:1.04-52.el9         @AppStream   1.8 M
+Removing unused dependencies:
+ cups-client                  x86_64   1:2.3.3op2-30.el9     @AppStream   189 k
+ cups-filesystem              noarch   1:2.3.3op2-30.el9     @AppStream     0  
+ cups-filters                 x86_64   1.28.7-18.el9_5       @AppStream   2.4 M
+ cups-filters-libs            x86_64   1.28.7-18.el9_5       @AppStream   330 k
+ cups-ipptool                 x86_64   1:2.3.3op2-30.el9     @AppStream   4.4 M
+ foomatic                     x86_64   4.0.13-19.el9         @AppStream   827 k
+ foomatic-db                  noarch   4.0-72.20210209.el9   @AppStream   9.5 M
+ foomatic-db-filesystem       noarch   4.0-72.20210209.el9   @AppStream     0  
+ foomatic-db-ppds             noarch   4.0-72.20210209.el9   @AppStream    75 M
+ ghostscript                  x86_64   9.54.0-17.el9_4       @AppStream    39 k
+ ghostscript-tools-fonts      x86_64   9.54.0-17.el9_4       @AppStream   2.9 k
+ ghostscript-tools-printing   x86_64   9.54.0-17.el9_4       @AppStream   3.5 k
+ poppler-cpp                  x86_64   21.01.0-21.el9        @AppStream   126 k
+ poppler-utils                x86_64   21.01.0-21.el9        @AppStream   662 k
+ qpdf-libs                    x86_64   10.3.1-7.el9          @AppStream   1.7 M
+
+Transaction Summary
+================================================================================
+Remove  18 Packages
+
+Freed space: 105 M
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1 
+  Erasing          : pnm2ppa-1:1.04-52.el9.x86_64                          1/18 
+  Erasing          : foomatic-4.0.13-19.el9.x86_64                         2/18 
+  Erasing          : foomatic-db-4.0-72.20210209.el9.noarch                3/18 
+  Erasing          : foomatic-db-ppds-4.0-72.20210209.el9.noarch           4/18 
+  Erasing          : gutenprint-cups-5.3.4-4.el9.x86_64                    5/18 
+  Erasing          : foomatic-db-filesystem-4.0-72.20210209.el9.noarch     6/18 
+  Running scriptlet: cups-1:2.3.3op2-30.el9.x86_64                         7/18 
+Removed "/etc/systemd/system/multi-user.target.wants/cups.path".
+Removed "/etc/systemd/system/multi-user.target.wants/cups.service".
+Removed "/etc/systemd/system/sockets.target.wants/cups.socket".
+Removed "/etc/systemd/system/printer.target.wants/cups.service".
+Failed to stop cups.path: Unit cups.path not loaded.
+Failed to stop cups.socket: Unit cups.socket not loaded.
+Failed to stop cups.service: Unit cups.service not loaded.
+
+  Erasing          : cups-1:2.3.3op2-30.el9.x86_64                         7/18 
+  Running scriptlet: cups-1:2.3.3op2-30.el9.x86_64                         7/18 
+  Running scriptlet: cups-filters-1.28.7-18.el9_5.x86_64                   8/18 
+Failed to stop cups-browsed.service: Unit cups-browsed.service not loaded.
+
+  Erasing          : cups-filters-1.28.7-18.el9_5.x86_64                   8/18 
+warning: /etc/cups/cups-browsed.conf saved as /etc/cups/cups-browsed.conf.rpmsave
+
+  Running scriptlet: cups-filters-1.28.7-18.el9_5.x86_64                   8/18 
+  Erasing          : ghostscript-9.54.0-17.el9_4.x86_64                    9/18 
+  Erasing          : ghostscript-tools-fonts-9.54.0-17.el9_4.x86_64       10/18 
+  Erasing          : ghostscript-tools-printing-9.54.0-17.el9_4.x86_64    11/18 
+  Erasing          : cups-filesystem-1:2.3.3op2-30.el9.noarch             12/18 
+  Erasing          : cups-filters-libs-1.28.7-18.el9_5.x86_64             13/18 
+  Erasing          : poppler-cpp-21.01.0-21.el9.x86_64                    14/18 
+  Erasing          : qpdf-libs-10.3.1-7.el9.x86_64                        15/18 
+  Erasing          : poppler-utils-21.01.0-21.el9.x86_64                  16/18 
+  Erasing          : cups-ipptool-1:2.3.3op2-30.el9.x86_64                17/18 
+  Running scriptlet: cups-client-1:2.3.3op2-30.el9.x86_64                 18/18 
+  Erasing          : cups-client-1:2.3.3op2-30.el9.x86_64                 18/18 
+  Running scriptlet: cups-client-1:2.3.3op2-30.el9.x86_64                 18/18 
+  Verifying        : cups-1:2.3.3op2-30.el9.x86_64                         1/18 
+  Verifying        : cups-client-1:2.3.3op2-30.el9.x86_64                  2/18 
+  Verifying        : cups-filesystem-1:2.3.3op2-30.el9.noarch              3/18 
+  Verifying        : cups-filters-1.28.7-18.el9_5.x86_64                   4/18 
+  Verifying        : cups-filters-libs-1.28.7-18.el9_5.x86_64              5/18 
+  Verifying        : cups-ipptool-1:2.3.3op2-30.el9.x86_64                 6/18 
+  Verifying        : foomatic-4.0.13-19.el9.x86_64                         7/18 
+  Verifying        : foomatic-db-4.0-72.20210209.el9.noarch                8/18 
+  Verifying        : foomatic-db-filesystem-4.0-72.20210209.el9.noarch     9/18 
+  Verifying        : foomatic-db-ppds-4.0-72.20210209.el9.noarch          10/18 
+  Verifying        : ghostscript-9.54.0-17.el9_4.x86_64                   11/18 
+  Verifying        : ghostscript-tools-fonts-9.54.0-17.el9_4.x86_64       12/18 
+  Verifying        : ghostscript-tools-printing-9.54.0-17.el9_4.x86_64    13/18 
+  Verifying        : gutenprint-cups-5.3.4-4.el9.x86_64                   14/18 
+  Verifying        : pnm2ppa-1:1.04-52.el9.x86_64                         15/18 
+  Verifying        : poppler-cpp-21.01.0-21.el9.x86_64                    16/18 
+  Verifying        : poppler-utils-21.01.0-21.el9.x86_64                  17/18 
+  Verifying        : qpdf-libs-10.3.1-7.el9.x86_64                        18/18 
+Installed products updated.
+
+Removed:
+  cups-1:2.3.3op2-30.el9.x86_64                                                 
+  cups-client-1:2.3.3op2-30.el9.x86_64                                          
+  cups-filesystem-1:2.3.3op2-30.el9.noarch                                      
+  cups-filters-1.28.7-18.el9_5.x86_64                                           
+  cups-filters-libs-1.28.7-18.el9_5.x86_64                                      
+  cups-ipptool-1:2.3.3op2-30.el9.x86_64                                         
+  foomatic-4.0.13-19.el9.x86_64                                                 
+  foomatic-db-4.0-72.20210209.el9.noarch                                        
+  foomatic-db-filesystem-4.0-72.20210209.el9.noarch                             
+  foomatic-db-ppds-4.0-72.20210209.el9.noarch                                   
+  ghostscript-9.54.0-17.el9_4.x86_64                                            
+  ghostscript-tools-fonts-9.54.0-17.el9_4.x86_64                                
+  ghostscript-tools-printing-9.54.0-17.el9_4.x86_64                             
+  gutenprint-cups-5.3.4-4.el9.x86_64                                            
+  pnm2ppa-1:1.04-52.el9.x86_64                                                  
+  poppler-cpp-21.01.0-21.el9.x86_64                                             
+  poppler-utils-21.01.0-21.el9.x86_64                                           
+  qpdf-libs-10.3.1-7.el9.x86_64                                                 
+
+Complete!
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use "rhc" or "subscription-manager" to register.
+
+Dependencies resolved.
+================================================================================
+ Package                       Arch    Version                Repository   Size
+================================================================================
+Removing:
+ gcc                           x86_64  11.5.0-2.el9           @AppStream   86 M
+Removing dependent packages:
+ annobin                       x86_64  12.65-1.el9            @AppStream  1.1 M
+ gcc-plugin-annobin            x86_64  11.5.0-2.el9           @AppStream   56 k
+ perl                          x86_64  4:5.32.1-481.el9       @AppStream    0  
+ perl-CPAN                     noarch  2.29-3.el9             @AppStream  1.9 M
+Removing unused dependencies:
+ gcc-c++                       x86_64  11.5.0-2.el9           @AppStream   32 M
+ make                          x86_64  1:4.3-8.el9            @anaconda   1.6 M
+ perl-Algorithm-Diff           noarch  1.2010-4.el9           @AppStream  108 k
+ perl-Archive-Tar              noarch  2.38-6.el9             @AppStream  154 k
+ perl-Archive-Zip              noarch  1.68-6.el9             @AppStream  292 k
+ perl-Attribute-Handlers       noarch  1.01-481.el9           @AppStream   38 k
+ perl-AutoSplit                noarch  5.74-481.el9           @AppStream   24 k
+ perl-Benchmark                noarch  1.23-481.el9           @AppStream   37 k
+ perl-CPAN-DistnameInfo        noarch  0.12-23.el9            @AppStream   11 k
+ perl-CPAN-Meta                noarch  2.150010-460.el9       @AppStream  596 k
+ perl-CPAN-Meta-Requirements   noarch  2.140-461.el9          @AppStream   69 k
+ perl-CPAN-Meta-YAML           noarch  0.018-461.el9          @AppStream   51 k
+ perl-Compress-Bzip2           x86_64  2.28-5.el9             @AppStream  147 k
+ perl-Compress-Raw-Lzma        x86_64  2.101-3.el9            @AppStream  122 k
+ perl-Config-Extensions        noarch  0.03-481.el9           @AppStream  3.6 k
+ perl-Config-Perl-V            noarch  0.33-4.el9             @AppStream   25 k
+ perl-DBM_Filter               noarch  0.06-481.el9           @AppStream   34 k
+ perl-DB_File                  x86_64  1.855-4.el9            @AppStream  190 k
+ perl-Data-OptList             noarch  0.110-17.el9           @AppStream   49 k
+ perl-Data-Section             noarch  0.200007-14.el9        @AppStream   42 k
+ perl-Devel-PPPort             x86_64  3.62-4.el9             @AppStream  841 k
+ perl-Devel-Peek               x86_64  1.28-481.el9           @AppStream   45 k
+ perl-Devel-SelfStubber        noarch  1.06-481.el9           @AppStream  7.7 k
+ perl-Devel-Size               x86_64  0.83-10.el9            @AppStream   46 k
+ perl-Digest-SHA1              x86_64  2.13-34.el9            @AppStream  105 k
+ perl-DirHandle                noarch  1.05-481.el9           @AppStream  4.3 k
+ perl-Dumpvalue                noarch  2.27-481.el9           @AppStream   21 k
+ perl-Encode-devel             x86_64  4:3.08-462.el9         @AppStream  100 k
+ perl-English                  noarch  1.11-481.el9           @AppStream  7.1 k
+ perl-Env                      noarch  1.04-460.el9           @AppStream   26 k
+ perl-ExtUtils-CBuilder        noarch  1:0.280236-4.el9       @AppStream   96 k
+ perl-ExtUtils-Command         noarch  2:7.60-3.el9           @AppStream  9.9 k
+ perl-ExtUtils-Constant        noarch  0.25-481.el9           @AppStream   90 k
+ perl-ExtUtils-Embed           noarch  1.35-481.el9           @AppStream   16 k
+ perl-ExtUtils-Install         noarch  2.20-4.el9             @AppStream   86 k
+ perl-ExtUtils-MM-Utils        noarch  2:7.60-3.el9           @AppStream  3.2 k
+ perl-ExtUtils-MakeMaker       noarch  2:7.60-3.el9           @AppStream  738 k
+ perl-ExtUtils-Manifest        noarch  1:1.73-4.el9           @AppStream   85 k
+ perl-ExtUtils-Miniperl        noarch  1.09-481.el9           @AppStream  9.8 k
+ perl-ExtUtils-ParseXS         noarch  1:3.40-460.el9         @AppStream  395 k
+ perl-File-Compare             noarch  1.100.600-481.el9      @AppStream  6.5 k
+ perl-File-Copy                noarch  2.34-481.el9           @AppStream   21 k
+ perl-File-DosGlob             x86_64  1.12-481.el9           @AppStream   26 k
+ perl-File-Fetch               noarch  1.00-4.el9             @AppStream   59 k
+ perl-File-HomeDir             noarch  1.006-4.el9            @AppStream  122 k
+ perl-File-Which               noarch  1.23-10.el9            @AppStream   30 k
+ perl-FileCache                noarch  1.10-481.el9           @AppStream  8.4 k
+ perl-Filter                   x86_64  2:1.60-4.el9           @AppStream  168 k
+ perl-Filter-Simple            noarch  0.96-460.el9           @AppStream   51 k
+ perl-GDBM_File                x86_64  1.18-481.el9           @AppStream   32 k
+ perl-Hash-Util                x86_64  0.23-481.el9           @AppStream   55 k
+ perl-Hash-Util-FieldHash      x86_64  1.20-481.el9           @AppStream   59 k
+ perl-I18N-Collate             noarch  1.02-481.el9           @AppStream  8.0 k
+ perl-I18N-LangTags            noarch  0.44-481.el9           @AppStream   85 k
+ perl-IO-Compress-Lzma         noarch  2.101-4.el9            @AppStream  207 k
+ perl-IO-Zlib                  noarch  1:1.11-4.el9           @AppStream   25 k
+ perl-IPC-Cmd                  noarch  2:1.04-461.el9         @AppStream   85 k
+ perl-IPC-SysV                 x86_64  2.09-4.el9             @AppStream   75 k
+ perl-IPC-System-Simple        noarch  1.30-6.el9             @AppStream   72 k
+ perl-Importer                 noarch  0.026-4.el9            @AppStream   93 k
+ perl-JSON-PP                  noarch  1:4.06-4.el9           @AppStream  141 k
+ perl-Locale-Maketext          noarch  1.29-461.el9           @AppStream  171 k
+ perl-Locale-Maketext-Simple   noarch  1:0.21-481.el9         @AppStream   14 k
+ perl-MIME-Charset             noarch  1.012.2-15.el9         @AppStream  104 k
+ perl-MRO-Compat               noarch  0.13-15.el9            @AppStream   25 k
+ perl-Math-BigInt-FastCalc     x86_64  0.500.900-460.el9      @AppStream   41 k
+ perl-Math-BigRat              noarch  0.2614-460.el9         @AppStream  103 k
+ perl-Module-Build             noarch  2:0.42.31-9.el9        @AppStream  653 k
+ perl-Module-CoreList          noarch  1:5.20210320-3.el9     @AppStream  978 k
+ perl-Module-CoreList-tools    noarch  1:5.20210320-3.el9     @AppStream   19 k
+ perl-Module-Load              noarch  1:0.36-4.el9           @AppStream   15 k
+ perl-Module-Load-Conditional  noarch  0.74-4.el9             @AppStream   29 k
+ perl-Module-Loaded            noarch  1:0.08-481.el9         @AppStream  5.9 k
+ perl-Module-Metadata          noarch  1.000037-460.el9       @AppStream   68 k
+ perl-Module-Signature         noarch  0.88-1.el9             @AppStream  136 k
+ perl-NEXT                     noarch  0.67-481.el9           @AppStream   25 k
+ perl-Net                      noarch  1.02-481.el9           @AppStream   27 k
+ perl-Net-Ping                 noarch  2.74-5.el9             @AppStream  134 k
+ perl-ODBM_File                x86_64  1.16-481.el9           @AppStream   33 k
+ perl-Object-HashBase          noarch  0.009-7.el9            @AppStream   44 k
+ perl-Opcode                   x86_64  1.48-481.el9           @AppStream   50 k
+ perl-Package-Generator        noarch  1.106-23.el9           @AppStream   30 k
+ perl-Params-Check             noarch  1:0.38-461.el9         @AppStream   28 k
+ perl-Params-Util              x86_64  1.102-5.el9            @AppStream   60 k
+ perl-Perl-OSType              noarch  1.010-461.el9          @AppStream   33 k
+ perl-PerlIO-via-QuotedPrint   noarch  0.09-4.el9             @AppStream   30 k
+ perl-Pod-Checker              noarch  4:1.74-4.el9           @AppStream   52 k
+ perl-Pod-Functions            noarch  1.13-481.el9           @AppStream   14 k
+ perl-Pod-Html                 noarch  1.25-481.el9           @AppStream   38 k
+ perl-Safe                     noarch  2.41-481.el9           @AppStream   32 k
+ perl-Search-Dict              noarch  1.07-481.el9           @AppStream  5.6 k
+ perl-SelfLoader               noarch  1.26-481.el9           @AppStream   23 k
+ perl-Software-License         noarch  0.103014-12.el9        @AppStream  454 k
+ perl-Sub-Exporter             noarch  0.987-27.el9           @AppStream  139 k
+ perl-Sub-Install              noarch  0.928-28.el9           @AppStream   35 k
+ perl-Sys-Hostname             x86_64  1.23-481.el9           @AppStream   21 k
+ perl-Sys-Syslog               x86_64  0.36-461.el9           @AppStream   99 k
+ perl-Term-Complete            noarch  1.403-481.el9          @AppStream  6.7 k
+ perl-Term-ReadLine            noarch  1.17-481.el9           @AppStream   18 k
+ perl-Term-Size-Any            noarch  0.002-35.el9           @AppStream  8.2 k
+ perl-Term-Size-Perl           x86_64  0.031-12.el9           @AppStream   26 k
+ perl-Term-Table               noarch  0.015-8.el9            @AppStream   60 k
+ perl-TermReadKey              x86_64  2.38-11.el9            @AppStream   65 k
+ perl-Test                     noarch  1.31-481.el9           @AppStream   38 k
+ perl-Test-Harness             noarch  1:3.42-461.el9         @AppStream  567 k
+ perl-Test-Simple              noarch  3:1.302183-4.el9       @AppStream  1.3 M
+ perl-Text-Abbrev              noarch  1.02-481.el9           @AppStream  4.0 k
+ perl-Text-Balanced            noarch  2.04-4.el9             @AppStream  107 k
+ perl-Text-Diff                noarch  1.45-13.el9            @AppStream   84 k
+ perl-Text-Glob                noarch  0.11-15.el9            @AppStream  8.6 k
+ perl-Text-Template            noarch  1.59-5.el9             @AppStream  113 k
+ perl-Thread                   noarch  3.05-481.el9           @AppStream   13 k
+ perl-Thread-Queue             noarch  3.14-460.el9           @AppStream   29 k
+ perl-Thread-Semaphore         noarch  2.13-481.el9           @AppStream   11 k
+ perl-Tie                      noarch  4.6-481.el9            @AppStream   36 k
+ perl-Tie-File                 noarch  1.06-481.el9           @AppStream   86 k
+ perl-Tie-Memoize              noarch  1.1-481.el9            @AppStream  7.1 k
+ perl-Tie-RefHash              noarch  1.40-4.el9             @AppStream   35 k
+ perl-Time                     noarch  1.03-481.el9           @AppStream   13 k
+ perl-Time-HiRes               x86_64  4:1.9764-462.el9       @AppStream  120 k
+ perl-Time-Piece               x86_64  1.3401-481.el9         @AppStream   69 k
+ perl-Unicode-Collate          x86_64  1.29-4.el9             @AppStream  4.9 M
+ perl-Unicode-LineBreak        x86_64  2019.001-11.el9        @AppStream  292 k
+ perl-Unicode-Normalize        x86_64  1.27-461.el9           @AppStream  645 k
+ perl-Unicode-UCD              noarch  0.75-481.el9           @AppStream  206 k
+ perl-User-pwent               noarch  1.03-481.el9           @AppStream   19 k
+ perl-autodie                  noarch  2.34-4.el9             @AppStream  215 k
+ perl-autouse                  noarch  1.11-481.el9           @AppStream  6.8 k
+ perl-bignum                   noarch  0.51-460.el9           @AppStream   90 k
+ perl-blib                     noarch  1.07-481.el9           @AppStream  4.1 k
+ perl-debugger                 noarch  1.56-481.el9           @AppStream  403 k
+ perl-deprecate                noarch  0.04-481.el9           @AppStream  7.5 k
+ perl-devel                    x86_64  4:5.32.1-481.el9       @AppStream  7.3 M
+ perl-diagnostics              noarch  1.37-481.el9           @AppStream  445 k
+ perl-doc                      noarch  5.32.1-481.el9         @AppStream  9.9 M
+ perl-encoding                 x86_64  4:3.00-462.el9         @AppStream  145 k
+ perl-encoding-warnings        noarch  0.13-481.el9           @AppStream   11 k
+ perl-experimental             noarch  0.022-6.el9            @AppStream   31 k
+ perl-fields                   noarch  2.27-481.el9           @AppStream   13 k
+ perl-filetest                 noarch  1.03-481.el9           @AppStream  7.4 k
+ perl-inc-latest               noarch  2:0.500-20.el9         @AppStream   35 k
+ perl-less                     noarch  0.03-481.el9           @AppStream  5.8 k
+ perl-libnetcfg                noarch  4:5.32.1-481.el9       @AppStream   18 k
+ perl-local-lib                noarch  2.000024-13.el9        @AppStream  117 k
+ perl-macros                   noarch  4:5.32.1-481.el9       @AppStream  5.5 k
+ perl-meta-notation            noarch  5.32.1-481.el9         @AppStream  2.1 k
+ perl-open                     noarch  1.12-481.el9           @AppStream   12 k
+ perl-perlfaq                  noarch  5.20201107-4.el9       @AppStream  726 k
+ perl-ph                       x86_64  5.32.1-481.el9         @AppStream  265 k
+ perl-sigtrap                  noarch  1.09-481.el9           @AppStream   12 k
+ perl-sort                     noarch  2.04-481.el9           @AppStream  6.7 k
+ perl-threads                  x86_64  1:2.25-460.el9         @AppStream  112 k
+ perl-threads-shared           x86_64  1.61-460.el9           @AppStream   80 k
+ perl-utils                    noarch  5.32.1-481.el9         @AppStream  101 k
+ perl-version                  x86_64  7:0.99.28-4.el9        @AppStream  129 k
+ perl-vmsish                   noarch  1.04-481.el9           @AppStream  7.5 k
+ sombok                        x86_64  2.4.0-16.el9           @AppStream  136 k
+ systemtap-sdt-devel           x86_64  5.1-4.el9_5            @AppStream  201 k
+
+Transaction Summary
+================================================================================
+Remove  163 Packages
+
+Freed space: 162 M
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1 
+  Erasing          : perl-4:5.32.1-481.el9.x86_64                         1/163 
+  Erasing          : perl-CPAN-2.29-3.el9.noarch                          2/163 
+  Erasing          : perl-Module-Build-2:0.42.31-9.el9.noarch             3/163 
+  Erasing          : perl-ExtUtils-CBuilder-1:0.280236-4.el9.noarch       4/163 
+  Erasing          : perl-File-Fetch-1.00-4.el9.noarch                    5/163 
+  Erasing          : perl-IPC-Cmd-2:1.04-461.el9.noarch                   6/163 
+  Erasing          : perl-Module-Load-Conditional-0.74-4.el9.noarch       7/163 
+  Erasing          : perl-debugger-1.56-481.el9.noarch                    8/163 
+  Erasing          : perl-Archive-Tar-2.38-6.el9.noarch                   9/163 
+  Erasing          : perl-Module-Signature-0.88-1.el9.noarch             10/163 
+  Erasing          : perl-Software-License-0.103014-12.el9.noarch        11/163 
+  Erasing          : perl-Module-CoreList-tools-1:5.20210320-3.el9.no    12/163 
+  Erasing          : perl-Data-Section-0.200007-14.el9.noarch            13/163 
+  Erasing          : perl-Sub-Exporter-0.987-27.el9.noarch               14/163 
+  Erasing          : perl-Data-OptList-0.110-17.el9.noarch               15/163 
+  Erasing          : perl-inc-latest-2:0.500-20.el9.noarch               16/163 
+  Erasing          : perl-ExtUtils-Miniperl-1.09-481.el9.noarch          17/163 
+  Erasing          : perl-Filter-Simple-0.96-460.el9.noarch              18/163 
+  Erasing          : perl-Test-Simple-3:1.302183-4.el9.noarch            19/163 
+  Erasing          : perl-Term-Table-0.015-8.el9.noarch                  20/163 
+  Erasing          : perl-Thread-3.05-481.el9.noarch                     21/163 
+  Erasing          : perl-autodie-2.34-4.el9.noarch                      22/163 
+  Erasing          : perl-Term-Size-Any-0.002-35.el9.noarch              23/163 
+  Erasing          : perl-ExtUtils-Embed-1.35-481.el9.noarch             24/163 
+  Erasing          : perl-Module-CoreList-1:5.20210320-3.el9.noarch      25/163 
+  Erasing          : perl-Text-Diff-1.45-13.el9.noarch                   26/163 
+  Erasing          : perl-IO-Compress-Lzma-2.101-4.el9.noarch            27/163 
+  Erasing          : perl-IO-Zlib-1:1.11-4.el9.noarch                    28/163 
+  Erasing          : perl-Module-Metadata-1.000037-460.el9.noarch        29/163 
+  Erasing          : perl-Params-Check-1:0.38-461.el9.noarch             30/163 
+  Erasing          : perl-Locale-Maketext-Simple-1:0.21-481.el9.noarc    31/163 
+  Erasing          : perl-Locale-Maketext-1.29-461.el9.noarch            32/163 
+  Erasing          : perl-Archive-Zip-1.68-6.el9.noarch                  33/163 
+  Erasing          : perl-Dumpvalue-2.27-481.el9.noarch                  34/163 
+  Erasing          : perl-File-HomeDir-1.006-4.el9.noarch                35/163 
+  Erasing          : perl-Net-Ping-2.74-5.el9.noarch                     36/163 
+  Erasing          : perl-Safe-2.41-481.el9.noarch                       37/163 
+  Erasing          : perl-Devel-SelfStubber-1.06-481.el9.noarch          38/163 
+  Erasing          : perl-Encode-devel-4:3.08-462.el9.x86_64             39/163 
+  Erasing          : perl-Env-1.04-460.el9.noarch                        40/163 
+  Erasing          : perl-Thread-Queue-3.14-460.el9.noarch               41/163 
+  Erasing          : perl-Thread-Semaphore-2.13-481.el9.noarch           42/163 
+  Erasing          : perl-Unicode-UCD-0.75-481.el9.noarch                43/163 
+  Erasing          : perl-bignum-0.51-460.el9.noarch                     44/163 
+  Erasing          : perl-experimental-0.022-6.el9.noarch                45/163 
+  Erasing          : perl-fields-2.27-481.el9.noarch                     46/163 
+  Erasing          : perl-libnetcfg-4:5.32.1-481.el9.noarch              47/163 
+  Erasing          : perl-ExtUtils-Install-2.20-4.el9.noarch             48/163 
+  Erasing          : perl-ExtUtils-MakeMaker-2:7.60-3.el9.noarch         49/163 
+  Erasing          : perl-devel-4:5.32.1-481.el9.x86_64                  50/163 
+  Erasing          : perl-CPAN-Meta-2.150010-460.el9.noarch              51/163 
+  Erasing          : perl-Test-Harness-1:3.42-461.el9.noarch             52/163 
+  Erasing          : perl-CPAN-Meta-Requirements-2.140-461.el9.noarch    53/163 
+  Erasing          : perl-ExtUtils-Command-2:7.60-3.el9.noarch           54/163 
+  Erasing          : perl-ExtUtils-Manifest-1:1.73-4.el9.noarch          55/163 
+  Erasing          : perl-open-1.12-481.el9.noarch                       56/163 
+  Erasing          : perl-encoding-4:3.00-462.el9.x86_64                 57/163 
+  Erasing          : perl-sigtrap-1.09-481.el9.noarch                    58/163 
+  Erasing          : perl-Unicode-LineBreak-2019.001-11.el9.x86_64       59/163 
+  Erasing          : perl-Filter-2:1.60-4.el9.x86_64                     60/163 
+  Erasing          : perl-Hash-Util-0.23-481.el9.x86_64                  61/163 
+  Erasing          : perl-threads-shared-1.61-460.el9.x86_64             62/163 
+  Erasing          : gcc-c++-11.5.0-2.el9.x86_64                         63/163 
+  Erasing          : perl-Unicode-Collate-1.29-4.el9.x86_64              64/163 
+  Erasing          : gcc-plugin-annobin-11.5.0-2.el9.x86_64              65/163 
+  Running scriptlet: gcc-plugin-annobin-11.5.0-2.el9.x86_64              65/163 
+  Erasing          : annobin-12.65-1.el9.x86_64                          66/163 
+  Running scriptlet: annobin-12.65-1.el9.x86_64                          66/163 
+  Erasing          : perl-MIME-Charset-1.012.2-15.el9.noarch             67/163 
+  Erasing          : perl-meta-notation-5.32.1-481.el9.noarch            68/163 
+  Erasing          : perl-File-Copy-2.34-481.el9.noarch                  69/163 
+  Erasing          : perl-Benchmark-1.23-481.el9.noarch                  70/163 
+  Erasing          : perl-CPAN-Meta-YAML-0.018-461.el9.noarch            71/163 
+  Erasing          : perl-JSON-PP-1:4.06-4.el9.noarch                    72/163 
+  Erasing          : perl-ExtUtils-Constant-0.25-481.el9.noarch          73/163 
+  Erasing          : perl-ExtUtils-ParseXS-1:3.40-460.el9.noarch         74/163 
+  Erasing          : perl-File-Compare-1.100.600-481.el9.noarch          75/163 
+  Erasing          : systemtap-sdt-devel-5.1-4.el9_5.x86_64              76/163 
+  Erasing          : perl-doc-5.32.1-481.el9.noarch                      77/163 
+  Erasing          : perl-AutoSplit-5.74-481.el9.noarch                  78/163 
+  Erasing          : perl-Math-BigRat-0.2614-460.el9.noarch              79/163 
+  Erasing          : perl-Tie-4.6-481.el9.noarch                         80/163 
+  Erasing          : perl-SelfLoader-1.26-481.el9.noarch                 81/163 
+  Erasing          : perl-File-Which-1.23-10.el9.noarch                  82/163 
+  Erasing          : perl-I18N-LangTags-0.44-481.el9.noarch              83/163 
+  Erasing          : perl-Algorithm-Diff-1.2010-4.el9.noarch             84/163 
+  Erasing          : perl-Term-Size-Perl-0.031-12.el9.x86_64             85/163 
+  Erasing          : perl-IPC-System-Simple-1.30-6.el9.noarch            86/163 
+  Erasing          : perl-Tie-RefHash-1.40-4.el9.noarch                  87/163 
+  Erasing          : perl-Importer-0.026-4.el9.noarch                    88/163 
+  Erasing          : perl-Object-HashBase-0.009-7.el9.noarch             89/163 
+  Erasing          : perl-Text-Balanced-2.04-4.el9.noarch                90/163 
+  Erasing          : perl-Sub-Install-0.928-28.el9.noarch                91/163 
+  Erasing          : perl-Package-Generator-1.106-23.el9.noarch          92/163 
+  Erasing          : perl-MRO-Compat-0.13-15.el9.noarch                  93/163 
+  Erasing          : perl-Module-Load-1:0.36-4.el9.noarch                94/163 
+  Erasing          : perl-Text-Template-1.59-5.el9.noarch                95/163 
+  Erasing          : perl-Term-ReadLine-1.17-481.el9.noarch              96/163 
+  Erasing          : perl-ExtUtils-MM-Utils-2:7.60-3.el9.noarch          97/163 
+  Erasing          : perl-Perl-OSType-1.010-461.el9.noarch               98/163 
+  Erasing          : perl-Pod-Html-1.25-481.el9.noarch                   99/163 
+  Erasing          : perl-DirHandle-1.05-481.el9.noarch                 100/163 
+  Erasing          : perl-Text-Glob-0.11-15.el9.noarch                  101/163 
+  Erasing          : perl-User-pwent-1.03-481.el9.noarch                102/163 
+  Erasing          : perl-autouse-1.11-481.el9.noarch                   103/163 
+  Erasing          : perl-local-lib-2.000024-13.el9.noarch              104/163 
+  Erasing          : perl-CPAN-DistnameInfo-0.12-23.el9.noarch          105/163 
+  Erasing          : perl-Attribute-Handlers-1.01-481.el9.noarch        106/163 
+  Erasing          : perl-Config-Extensions-0.03-481.el9.noarch         107/163 
+  Erasing          : perl-Config-Perl-V-0.33-4.el9.noarch               108/163 
+  Erasing          : perl-DBM_Filter-0.06-481.el9.noarch                109/163 
+  Erasing          : perl-English-1.11-481.el9.noarch                   110/163 
+  Erasing          : perl-FileCache-1.10-481.el9.noarch                 111/163 
+  Erasing          : perl-I18N-Collate-1.02-481.el9.noarch              112/163 
+  Erasing          : perl-Module-Loaded-1:0.08-481.el9.noarch           113/163 
+  Erasing          : perl-NEXT-0.67-481.el9.noarch                      114/163 
+  Erasing          : perl-Net-1.02-481.el9.noarch                       115/163 
+  Erasing          : perl-PerlIO-via-QuotedPrint-0.09-4.el9.noarch      116/163 
+  Erasing          : perl-Pod-Checker-4:1.74-4.el9.noarch               117/163 
+  Erasing          : perl-Pod-Functions-1.13-481.el9.noarch             118/163 
+  Erasing          : perl-Search-Dict-1.07-481.el9.noarch               119/163 
+  Erasing          : perl-Term-Complete-1.403-481.el9.noarch            120/163 
+  Erasing          : perl-Test-1.31-481.el9.noarch                      121/163 
+  Erasing          : perl-Text-Abbrev-1.02-481.el9.noarch               122/163 
+  Erasing          : perl-Tie-File-1.06-481.el9.noarch                  123/163 
+  Erasing          : perl-Tie-Memoize-1.1-481.el9.noarch                124/163 
+  Erasing          : perl-Time-1.03-481.el9.noarch                      125/163 
+  Erasing          : perl-blib-1.07-481.el9.noarch                      126/163 
+  Erasing          : perl-deprecate-0.04-481.el9.noarch                 127/163 
+  Erasing          : perl-diagnostics-1.37-481.el9.noarch               128/163 
+  Erasing          : perl-encoding-warnings-0.13-481.el9.noarch         129/163 
+  Erasing          : perl-filetest-1.03-481.el9.noarch                  130/163 
+  Erasing          : perl-less-0.03-481.el9.noarch                      131/163 
+  Erasing          : perl-macros-4:5.32.1-481.el9.noarch                132/163 
+  Erasing          : perl-perlfaq-5.20201107-4.el9.noarch               133/163 
+  Erasing          : perl-ph-5.32.1-481.el9.x86_64                      134/163 
+  Erasing          : perl-sort-2.04-481.el9.noarch                      135/163 
+  Erasing          : perl-utils-5.32.1-481.el9.noarch                   136/163 
+  Erasing          : perl-vmsish-1.04-481.el9.noarch                    137/163 
+  Erasing          : gcc-11.5.0-2.el9.x86_64                            138/163 
+  Erasing          : make-1:4.3-8.el9.x86_64                            139/163 
+  Erasing          : perl-Unicode-Normalize-1.27-461.el9.x86_64         140/163 
+  Erasing          : perl-threads-1:2.25-460.el9.x86_64                 141/163 
+  Erasing          : perl-Hash-Util-FieldHash-1.20-481.el9.x86_64       142/163 
+  Erasing          : sombok-2.4.0-16.el9.x86_64                         143/163 
+  Erasing          : perl-version-7:0.99.28-4.el9.x86_64                144/163 
+  Erasing          : perl-Time-HiRes-4:1.9764-462.el9.x86_64            145/163 
+  Erasing          : perl-Devel-PPPort-3.62-4.el9.x86_64                146/163 
+  Erasing          : perl-Opcode-1.48-481.el9.x86_64                    147/163 
+  Erasing          : perl-Devel-Peek-1.28-481.el9.x86_64                148/163 
+  Erasing          : perl-Compress-Raw-Lzma-2.101-3.el9.x86_64          149/163 
+  Erasing          : perl-TermReadKey-2.38-11.el9.x86_64                150/163 
+  Erasing          : perl-Params-Util-1.102-5.el9.x86_64                151/163 
+  Erasing          : perl-Digest-SHA1-2.13-34.el9.x86_64                152/163 
+  Erasing          : perl-Compress-Bzip2-2.28-5.el9.x86_64              153/163 
+  Erasing          : perl-Devel-Size-0.83-10.el9.x86_64                 154/163 
+  Erasing          : perl-Sys-Hostname-1.23-481.el9.x86_64              155/163 
+  Erasing          : perl-DB_File-1.855-4.el9.x86_64                    156/163 
+  Erasing          : perl-File-DosGlob-1.12-481.el9.x86_64              157/163 
+  Erasing          : perl-GDBM_File-1.18-481.el9.x86_64                 158/163 
+  Erasing          : perl-IPC-SysV-2.09-4.el9.x86_64                    159/163 
+  Erasing          : perl-Math-BigInt-FastCalc-0.500.900-460.el9.x86_   160/163 
+  Erasing          : perl-ODBM_File-1.16-481.el9.x86_64                 161/163 
+  Erasing          : perl-Sys-Syslog-0.36-461.el9.x86_64                162/163 
+  Erasing          : perl-Time-Piece-1.3401-481.el9.x86_64              163/163 
+  Running scriptlet: perl-Time-Piece-1.3401-481.el9.x86_64              163/163 
+  Verifying        : annobin-12.65-1.el9.x86_64                           1/163 
+  Verifying        : gcc-11.5.0-2.el9.x86_64                              2/163 
+  Verifying        : gcc-c++-11.5.0-2.el9.x86_64                          3/163 
+  Verifying        : gcc-plugin-annobin-11.5.0-2.el9.x86_64               4/163 
+  Verifying        : make-1:4.3-8.el9.x86_64                              5/163 
+  Verifying        : perl-4:5.32.1-481.el9.x86_64                         6/163 
+  Verifying        : perl-Algorithm-Diff-1.2010-4.el9.noarch              7/163 
+  Verifying        : perl-Archive-Tar-2.38-6.el9.noarch                   8/163 
+  Verifying        : perl-Archive-Zip-1.68-6.el9.noarch                   9/163 
+  Verifying        : perl-Attribute-Handlers-1.01-481.el9.noarch         10/163 
+  Verifying        : perl-AutoSplit-5.74-481.el9.noarch                  11/163 
+  Verifying        : perl-Benchmark-1.23-481.el9.noarch                  12/163 
+  Verifying        : perl-CPAN-2.29-3.el9.noarch                         13/163 
+  Verifying        : perl-CPAN-DistnameInfo-0.12-23.el9.noarch           14/163 
+  Verifying        : perl-CPAN-Meta-2.150010-460.el9.noarch              15/163 
+  Verifying        : perl-CPAN-Meta-Requirements-2.140-461.el9.noarch    16/163 
+  Verifying        : perl-CPAN-Meta-YAML-0.018-461.el9.noarch            17/163 
+  Verifying        : perl-Compress-Bzip2-2.28-5.el9.x86_64               18/163 
+  Verifying        : perl-Compress-Raw-Lzma-2.101-3.el9.x86_64           19/163 
+  Verifying        : perl-Config-Extensions-0.03-481.el9.noarch          20/163 
+  Verifying        : perl-Config-Perl-V-0.33-4.el9.noarch                21/163 
+  Verifying        : perl-DBM_Filter-0.06-481.el9.noarch                 22/163 
+  Verifying        : perl-DB_File-1.855-4.el9.x86_64                     23/163 
+  Verifying        : perl-Data-OptList-0.110-17.el9.noarch               24/163 
+  Verifying        : perl-Data-Section-0.200007-14.el9.noarch            25/163 
+  Verifying        : perl-Devel-PPPort-3.62-4.el9.x86_64                 26/163 
+  Verifying        : perl-Devel-Peek-1.28-481.el9.x86_64                 27/163 
+  Verifying        : perl-Devel-SelfStubber-1.06-481.el9.noarch          28/163 
+  Verifying        : perl-Devel-Size-0.83-10.el9.x86_64                  29/163 
+  Verifying        : perl-Digest-SHA1-2.13-34.el9.x86_64                 30/163 
+  Verifying        : perl-DirHandle-1.05-481.el9.noarch                  31/163 
+  Verifying        : perl-Dumpvalue-2.27-481.el9.noarch                  32/163 
+  Verifying        : perl-Encode-devel-4:3.08-462.el9.x86_64             33/163 
+  Verifying        : perl-English-1.11-481.el9.noarch                    34/163 
+  Verifying        : perl-Env-1.04-460.el9.noarch                        35/163 
+  Verifying        : perl-ExtUtils-CBuilder-1:0.280236-4.el9.noarch      36/163 
+  Verifying        : perl-ExtUtils-Command-2:7.60-3.el9.noarch           37/163 
+  Verifying        : perl-ExtUtils-Constant-0.25-481.el9.noarch          38/163 
+  Verifying        : perl-ExtUtils-Embed-1.35-481.el9.noarch             39/163 
+  Verifying        : perl-ExtUtils-Install-2.20-4.el9.noarch             40/163 
+  Verifying        : perl-ExtUtils-MM-Utils-2:7.60-3.el9.noarch          41/163 
+  Verifying        : perl-ExtUtils-MakeMaker-2:7.60-3.el9.noarch         42/163 
+  Verifying        : perl-ExtUtils-Manifest-1:1.73-4.el9.noarch          43/163 
+  Verifying        : perl-ExtUtils-Miniperl-1.09-481.el9.noarch          44/163 
+  Verifying        : perl-ExtUtils-ParseXS-1:3.40-460.el9.noarch         45/163 
+  Verifying        : perl-File-Compare-1.100.600-481.el9.noarch          46/163 
+  Verifying        : perl-File-Copy-2.34-481.el9.noarch                  47/163 
+  Verifying        : perl-File-DosGlob-1.12-481.el9.x86_64               48/163 
+  Verifying        : perl-File-Fetch-1.00-4.el9.noarch                   49/163 
+  Verifying        : perl-File-HomeDir-1.006-4.el9.noarch                50/163 
+  Verifying        : perl-File-Which-1.23-10.el9.noarch                  51/163 
+  Verifying        : perl-FileCache-1.10-481.el9.noarch                  52/163 
+  Verifying        : perl-Filter-2:1.60-4.el9.x86_64                     53/163 
+  Verifying        : perl-Filter-Simple-0.96-460.el9.noarch              54/163 
+  Verifying        : perl-GDBM_File-1.18-481.el9.x86_64                  55/163 
+  Verifying        : perl-Hash-Util-0.23-481.el9.x86_64                  56/163 
+  Verifying        : perl-Hash-Util-FieldHash-1.20-481.el9.x86_64        57/163 
+  Verifying        : perl-I18N-Collate-1.02-481.el9.noarch               58/163 
+  Verifying        : perl-I18N-LangTags-0.44-481.el9.noarch              59/163 
+  Verifying        : perl-IO-Compress-Lzma-2.101-4.el9.noarch            60/163 
+  Verifying        : perl-IO-Zlib-1:1.11-4.el9.noarch                    61/163 
+  Verifying        : perl-IPC-Cmd-2:1.04-461.el9.noarch                  62/163 
+  Verifying        : perl-IPC-SysV-2.09-4.el9.x86_64                     63/163 
+  Verifying        : perl-IPC-System-Simple-1.30-6.el9.noarch            64/163 
+  Verifying        : perl-Importer-0.026-4.el9.noarch                    65/163 
+  Verifying        : perl-JSON-PP-1:4.06-4.el9.noarch                    66/163 
+  Verifying        : perl-Locale-Maketext-1.29-461.el9.noarch            67/163 
+  Verifying        : perl-Locale-Maketext-Simple-1:0.21-481.el9.noarc    68/163 
+  Verifying        : perl-MIME-Charset-1.012.2-15.el9.noarch             69/163 
+  Verifying        : perl-MRO-Compat-0.13-15.el9.noarch                  70/163 
+  Verifying        : perl-Math-BigInt-FastCalc-0.500.900-460.el9.x86_    71/163 
+  Verifying        : perl-Math-BigRat-0.2614-460.el9.noarch              72/163 
+  Verifying        : perl-Module-Build-2:0.42.31-9.el9.noarch            73/163 
+  Verifying        : perl-Module-CoreList-1:5.20210320-3.el9.noarch      74/163 
+  Verifying        : perl-Module-CoreList-tools-1:5.20210320-3.el9.no    75/163 
+  Verifying        : perl-Module-Load-1:0.36-4.el9.noarch                76/163 
+  Verifying        : perl-Module-Load-Conditional-0.74-4.el9.noarch      77/163 
+  Verifying        : perl-Module-Loaded-1:0.08-481.el9.noarch            78/163 
+  Verifying        : perl-Module-Metadata-1.000037-460.el9.noarch        79/163 
+  Verifying        : perl-Module-Signature-0.88-1.el9.noarch             80/163 
+  Verifying        : perl-NEXT-0.67-481.el9.noarch                       81/163 
+  Verifying        : perl-Net-1.02-481.el9.noarch                        82/163 
+  Verifying        : perl-Net-Ping-2.74-5.el9.noarch                     83/163 
+  Verifying        : perl-ODBM_File-1.16-481.el9.x86_64                  84/163 
+  Verifying        : perl-Object-HashBase-0.009-7.el9.noarch             85/163 
+  Verifying        : perl-Opcode-1.48-481.el9.x86_64                     86/163 
+  Verifying        : perl-Package-Generator-1.106-23.el9.noarch          87/163 
+  Verifying        : perl-Params-Check-1:0.38-461.el9.noarch             88/163 
+  Verifying        : perl-Params-Util-1.102-5.el9.x86_64                 89/163 
+  Verifying        : perl-Perl-OSType-1.010-461.el9.noarch               90/163 
+  Verifying        : perl-PerlIO-via-QuotedPrint-0.09-4.el9.noarch       91/163 
+  Verifying        : perl-Pod-Checker-4:1.74-4.el9.noarch                92/163 
+  Verifying        : perl-Pod-Functions-1.13-481.el9.noarch              93/163 
+  Verifying        : perl-Pod-Html-1.25-481.el9.noarch                   94/163 
+  Verifying        : perl-Safe-2.41-481.el9.noarch                       95/163 
+  Verifying        : perl-Search-Dict-1.07-481.el9.noarch                96/163 
+  Verifying        : perl-SelfLoader-1.26-481.el9.noarch                 97/163 
+  Verifying        : perl-Software-License-0.103014-12.el9.noarch        98/163 
+  Verifying        : perl-Sub-Exporter-0.987-27.el9.noarch               99/163 
+  Verifying        : perl-Sub-Install-0.928-28.el9.noarch               100/163 
+  Verifying        : perl-Sys-Hostname-1.23-481.el9.x86_64              101/163 
+  Verifying        : perl-Sys-Syslog-0.36-461.el9.x86_64                102/163 
+  Verifying        : perl-Term-Complete-1.403-481.el9.noarch            103/163 
+  Verifying        : perl-Term-ReadLine-1.17-481.el9.noarch             104/163 
+  Verifying        : perl-Term-Size-Any-0.002-35.el9.noarch             105/163 
+  Verifying        : perl-Term-Size-Perl-0.031-12.el9.x86_64            106/163 
+  Verifying        : perl-Term-Table-0.015-8.el9.noarch                 107/163 
+  Verifying        : perl-TermReadKey-2.38-11.el9.x86_64                108/163 
+  Verifying        : perl-Test-1.31-481.el9.noarch                      109/163 
+  Verifying        : perl-Test-Harness-1:3.42-461.el9.noarch            110/163 
+  Verifying        : perl-Test-Simple-3:1.302183-4.el9.noarch           111/163 
+  Verifying        : perl-Text-Abbrev-1.02-481.el9.noarch               112/163 
+  Verifying        : perl-Text-Balanced-2.04-4.el9.noarch               113/163 
+  Verifying        : perl-Text-Diff-1.45-13.el9.noarch                  114/163 
+  Verifying        : perl-Text-Glob-0.11-15.el9.noarch                  115/163 
+  Verifying        : perl-Text-Template-1.59-5.el9.noarch               116/163 
+  Verifying        : perl-Thread-3.05-481.el9.noarch                    117/163 
+  Verifying        : perl-Thread-Queue-3.14-460.el9.noarch              118/163 
+  Verifying        : perl-Thread-Semaphore-2.13-481.el9.noarch          119/163 
+  Verifying        : perl-Tie-4.6-481.el9.noarch                        120/163 
+  Verifying        : perl-Tie-File-1.06-481.el9.noarch                  121/163 
+  Verifying        : perl-Tie-Memoize-1.1-481.el9.noarch                122/163 
+  Verifying        : perl-Tie-RefHash-1.40-4.el9.noarch                 123/163 
+  Verifying        : perl-Time-1.03-481.el9.noarch                      124/163 
+  Verifying        : perl-Time-HiRes-4:1.9764-462.el9.x86_64            125/163 
+  Verifying        : perl-Time-Piece-1.3401-481.el9.x86_64              126/163 
+  Verifying        : perl-Unicode-Collate-1.29-4.el9.x86_64             127/163 
+  Verifying        : perl-Unicode-LineBreak-2019.001-11.el9.x86_64      128/163 
+  Verifying        : perl-Unicode-Normalize-1.27-461.el9.x86_64         129/163 
+  Verifying        : perl-Unicode-UCD-0.75-481.el9.noarch               130/163 
+  Verifying        : perl-User-pwent-1.03-481.el9.noarch                131/163 
+  Verifying        : perl-autodie-2.34-4.el9.noarch                     132/163 
+  Verifying        : perl-autouse-1.11-481.el9.noarch                   133/163 
+  Verifying        : perl-bignum-0.51-460.el9.noarch                    134/163 
+  Verifying        : perl-blib-1.07-481.el9.noarch                      135/163 
+  Verifying        : perl-debugger-1.56-481.el9.noarch                  136/163 
+  Verifying        : perl-deprecate-0.04-481.el9.noarch                 137/163 
+  Verifying        : perl-devel-4:5.32.1-481.el9.x86_64                 138/163 
+  Verifying        : perl-diagnostics-1.37-481.el9.noarch               139/163 
+  Verifying        : perl-doc-5.32.1-481.el9.noarch                     140/163 
+  Verifying        : perl-encoding-4:3.00-462.el9.x86_64                141/163 
+  Verifying        : perl-encoding-warnings-0.13-481.el9.noarch         142/163 
+  Verifying        : perl-experimental-0.022-6.el9.noarch               143/163 
+  Verifying        : perl-fields-2.27-481.el9.noarch                    144/163 
+  Verifying        : perl-filetest-1.03-481.el9.noarch                  145/163 
+  Verifying        : perl-inc-latest-2:0.500-20.el9.noarch              146/163 
+  Verifying        : perl-less-0.03-481.el9.noarch                      147/163 
+  Verifying        : perl-libnetcfg-4:5.32.1-481.el9.noarch             148/163 
+  Verifying        : perl-local-lib-2.000024-13.el9.noarch              149/163 
+  Verifying        : perl-macros-4:5.32.1-481.el9.noarch                150/163 
+  Verifying        : perl-meta-notation-5.32.1-481.el9.noarch           151/163 
+  Verifying        : perl-open-1.12-481.el9.noarch                      152/163 
+  Verifying        : perl-perlfaq-5.20201107-4.el9.noarch               153/163 
+  Verifying        : perl-ph-5.32.1-481.el9.x86_64                      154/163 
+  Verifying        : perl-sigtrap-1.09-481.el9.noarch                   155/163 
+  Verifying        : perl-sort-2.04-481.el9.noarch                      156/163 
+  Verifying        : perl-threads-1:2.25-460.el9.x86_64                 157/163 
+  Verifying        : perl-threads-shared-1.61-460.el9.x86_64            158/163 
+  Verifying        : perl-utils-5.32.1-481.el9.noarch                   159/163 
+  Verifying        : perl-version-7:0.99.28-4.el9.x86_64                160/163 
+  Verifying        : perl-vmsish-1.04-481.el9.noarch                    161/163 
+  Verifying        : sombok-2.4.0-16.el9.x86_64                         162/163 
+  Verifying        : systemtap-sdt-devel-5.1-4.el9_5.x86_64             163/163 
+Installed products updated.
+
+Removed:
+  annobin-12.65-1.el9.x86_64                                                    
+  gcc-11.5.0-2.el9.x86_64                                                       
+  gcc-c++-11.5.0-2.el9.x86_64                                                   
+  gcc-plugin-annobin-11.5.0-2.el9.x86_64                                        
+  make-1:4.3-8.el9.x86_64                                                       
+  perl-4:5.32.1-481.el9.x86_64                                                  
+  perl-Algorithm-Diff-1.2010-4.el9.noarch                                       
+  perl-Archive-Tar-2.38-6.el9.noarch                                            
+  perl-Archive-Zip-1.68-6.el9.noarch                                            
+  perl-Attribute-Handlers-1.01-481.el9.noarch                                   
+  perl-AutoSplit-5.74-481.el9.noarch                                            
+  perl-Benchmark-1.23-481.el9.noarch                                            
+  perl-CPAN-2.29-3.el9.noarch                                                   
+  perl-CPAN-DistnameInfo-0.12-23.el9.noarch                                     
+  perl-CPAN-Meta-2.150010-460.el9.noarch                                        
+  perl-CPAN-Meta-Requirements-2.140-461.el9.noarch                              
+  perl-CPAN-Meta-YAML-0.018-461.el9.noarch                                      
+  perl-Compress-Bzip2-2.28-5.el9.x86_64                                         
+  perl-Compress-Raw-Lzma-2.101-3.el9.x86_64                                     
+  perl-Config-Extensions-0.03-481.el9.noarch                                    
+  perl-Config-Perl-V-0.33-4.el9.noarch                                          
+  perl-DBM_Filter-0.06-481.el9.noarch                                           
+  perl-DB_File-1.855-4.el9.x86_64                                               
+  perl-Data-OptList-0.110-17.el9.noarch                                         
+  perl-Data-Section-0.200007-14.el9.noarch                                      
+  perl-Devel-PPPort-3.62-4.el9.x86_64                                           
+  perl-Devel-Peek-1.28-481.el9.x86_64                                           
+  perl-Devel-SelfStubber-1.06-481.el9.noarch                                    
+  perl-Devel-Size-0.83-10.el9.x86_64                                            
+  perl-Digest-SHA1-2.13-34.el9.x86_64                                           
+  perl-DirHandle-1.05-481.el9.noarch                                            
+  perl-Dumpvalue-2.27-481.el9.noarch                                            
+  perl-Encode-devel-4:3.08-462.el9.x86_64                                       
+  perl-English-1.11-481.el9.noarch                                              
+  perl-Env-1.04-460.el9.noarch                                                  
+  perl-ExtUtils-CBuilder-1:0.280236-4.el9.noarch                                
+  perl-ExtUtils-Command-2:7.60-3.el9.noarch                                     
+  perl-ExtUtils-Constant-0.25-481.el9.noarch                                    
+  perl-ExtUtils-Embed-1.35-481.el9.noarch                                       
+  perl-ExtUtils-Install-2.20-4.el9.noarch                                       
+  perl-ExtUtils-MM-Utils-2:7.60-3.el9.noarch                                    
+  perl-ExtUtils-MakeMaker-2:7.60-3.el9.noarch                                   
+  perl-ExtUtils-Manifest-1:1.73-4.el9.noarch                                    
+  perl-ExtUtils-Miniperl-1.09-481.el9.noarch                                    
+  perl-ExtUtils-ParseXS-1:3.40-460.el9.noarch                                   
+  perl-File-Compare-1.100.600-481.el9.noarch                                    
+  perl-File-Copy-2.34-481.el9.noarch                                            
+  perl-File-DosGlob-1.12-481.el9.x86_64                                         
+  perl-File-Fetch-1.00-4.el9.noarch                                             
+  perl-File-HomeDir-1.006-4.el9.noarch                                          
+  perl-File-Which-1.23-10.el9.noarch                                            
+  perl-FileCache-1.10-481.el9.noarch                                            
+  perl-Filter-2:1.60-4.el9.x86_64                                               
+  perl-Filter-Simple-0.96-460.el9.noarch                                        
+  perl-GDBM_File-1.18-481.el9.x86_64                                            
+  perl-Hash-Util-0.23-481.el9.x86_64                                            
+  perl-Hash-Util-FieldHash-1.20-481.el9.x86_64                                  
+  perl-I18N-Collate-1.02-481.el9.noarch                                         
+  perl-I18N-LangTags-0.44-481.el9.noarch                                        
+  perl-IO-Compress-Lzma-2.101-4.el9.noarch                                      
+  perl-IO-Zlib-1:1.11-4.el9.noarch                                              
+  perl-IPC-Cmd-2:1.04-461.el9.noarch                                            
+  perl-IPC-SysV-2.09-4.el9.x86_64                                               
+  perl-IPC-System-Simple-1.30-6.el9.noarch                                      
+  perl-Importer-0.026-4.el9.noarch                                              
+  perl-JSON-PP-1:4.06-4.el9.noarch                                              
+  perl-Locale-Maketext-1.29-461.el9.noarch                                      
+  perl-Locale-Maketext-Simple-1:0.21-481.el9.noarch                             
+  perl-MIME-Charset-1.012.2-15.el9.noarch                                       
+  perl-MRO-Compat-0.13-15.el9.noarch                                            
+  perl-Math-BigInt-FastCalc-0.500.900-460.el9.x86_64                            
+  perl-Math-BigRat-0.2614-460.el9.noarch                                        
+  perl-Module-Build-2:0.42.31-9.el9.noarch                                      
+  perl-Module-CoreList-1:5.20210320-3.el9.noarch                                
+  perl-Module-CoreList-tools-1:5.20210320-3.el9.noarch                          
+  perl-Module-Load-1:0.36-4.el9.noarch                                          
+  perl-Module-Load-Conditional-0.74-4.el9.noarch                                
+  perl-Module-Loaded-1:0.08-481.el9.noarch                                      
+  perl-Module-Metadata-1.000037-460.el9.noarch                                  
+  perl-Module-Signature-0.88-1.el9.noarch                                       
+  perl-NEXT-0.67-481.el9.noarch                                                 
+  perl-Net-1.02-481.el9.noarch                                                  
+  perl-Net-Ping-2.74-5.el9.noarch                                               
+  perl-ODBM_File-1.16-481.el9.x86_64                                            
+  perl-Object-HashBase-0.009-7.el9.noarch                                       
+  perl-Opcode-1.48-481.el9.x86_64                                               
+  perl-Package-Generator-1.106-23.el9.noarch                                    
+  perl-Params-Check-1:0.38-461.el9.noarch                                       
+  perl-Params-Util-1.102-5.el9.x86_64                                           
+  perl-Perl-OSType-1.010-461.el9.noarch                                         
+  perl-PerlIO-via-QuotedPrint-0.09-4.el9.noarch                                 
+  perl-Pod-Checker-4:1.74-4.el9.noarch                                          
+  perl-Pod-Functions-1.13-481.el9.noarch                                        
+  perl-Pod-Html-1.25-481.el9.noarch                                             
+  perl-Safe-2.41-481.el9.noarch                                                 
+  perl-Search-Dict-1.07-481.el9.noarch                                          
+  perl-SelfLoader-1.26-481.el9.noarch                                           
+  perl-Software-License-0.103014-12.el9.noarch                                  
+  perl-Sub-Exporter-0.987-27.el9.noarch                                         
+  perl-Sub-Install-0.928-28.el9.noarch                                          
+  perl-Sys-Hostname-1.23-481.el9.x86_64                                         
+  perl-Sys-Syslog-0.36-461.el9.x86_64                                           
+  perl-Term-Complete-1.403-481.el9.noarch                                       
+  perl-Term-ReadLine-1.17-481.el9.noarch                                        
+  perl-Term-Size-Any-0.002-35.el9.noarch                                        
+  perl-Term-Size-Perl-0.031-12.el9.x86_64                                       
+  perl-Term-Table-0.015-8.el9.noarch                                            
+  perl-TermReadKey-2.38-11.el9.x86_64                                           
+  perl-Test-1.31-481.el9.noarch                                                 
+  perl-Test-Harness-1:3.42-461.el9.noarch                                       
+  perl-Test-Simple-3:1.302183-4.el9.noarch                                      
+  perl-Text-Abbrev-1.02-481.el9.noarch                                          
+  perl-Text-Balanced-2.04-4.el9.noarch                                          
+  perl-Text-Diff-1.45-13.el9.noarch                                             
+  perl-Text-Glob-0.11-15.el9.noarch                                             
+  perl-Text-Template-1.59-5.el9.noarch                                          
+  perl-Thread-3.05-481.el9.noarch                                               
+  perl-Thread-Queue-3.14-460.el9.noarch                                         
+  perl-Thread-Semaphore-2.13-481.el9.noarch                                     
+  perl-Tie-4.6-481.el9.noarch                                                   
+  perl-Tie-File-1.06-481.el9.noarch                                             
+  perl-Tie-Memoize-1.1-481.el9.noarch                                           
+  perl-Tie-RefHash-1.40-4.el9.noarch                                            
+  perl-Time-1.03-481.el9.noarch                                                 
+  perl-Time-HiRes-4:1.9764-462.el9.x86_64                                       
+  perl-Time-Piece-1.3401-481.el9.x86_64                                         
+  perl-Unicode-Collate-1.29-4.el9.x86_64                                        
+  perl-Unicode-LineBreak-2019.001-11.el9.x86_64                                 
+  perl-Unicode-Normalize-1.27-461.el9.x86_64                                    
+  perl-Unicode-UCD-0.75-481.el9.noarch                                          
+  perl-User-pwent-1.03-481.el9.noarch                                           
+  perl-autodie-2.34-4.el9.noarch                                                
+  perl-autouse-1.11-481.el9.noarch                                              
+  perl-bignum-0.51-460.el9.noarch                                               
+  perl-blib-1.07-481.el9.noarch                                                 
+  perl-debugger-1.56-481.el9.noarch                                             
+  perl-deprecate-0.04-481.el9.noarch                                            
+  perl-devel-4:5.32.1-481.el9.x86_64                                            
+  perl-diagnostics-1.37-481.el9.noarch                                          
+  perl-doc-5.32.1-481.el9.noarch                                                
+  perl-encoding-4:3.00-462.el9.x86_64                                           
+  perl-encoding-warnings-0.13-481.el9.noarch                                    
+  perl-experimental-0.022-6.el9.noarch                                          
+  perl-fields-2.27-481.el9.noarch                                               
+  perl-filetest-1.03-481.el9.noarch                                             
+  perl-inc-latest-2:0.500-20.el9.noarch                                         
+  perl-less-0.03-481.el9.noarch                                                 
+  perl-libnetcfg-4:5.32.1-481.el9.noarch                                        
+  perl-local-lib-2.000024-13.el9.noarch                                         
+  perl-macros-4:5.32.1-481.el9.noarch                                           
+  perl-meta-notation-5.32.1-481.el9.noarch                                      
+  perl-open-1.12-481.el9.noarch                                                 
+  perl-perlfaq-5.20201107-4.el9.noarch                                          
+  perl-ph-5.32.1-481.el9.x86_64                                                 
+  perl-sigtrap-1.09-481.el9.noarch                                              
+  perl-sort-2.04-481.el9.noarch                                                 
+  perl-threads-1:2.25-460.el9.x86_64                                            
+  perl-threads-shared-1.61-460.el9.x86_64                                       
+  perl-utils-5.32.1-481.el9.noarch                                              
+  perl-version-7:0.99.28-4.el9.x86_64                                           
+  perl-vmsish-1.04-481.el9.noarch                                               
+  sombok-2.4.0-16.el9.x86_64                                                    
+  systemtap-sdt-devel-5.1-4.el9_5.x86_64                                        
+
+Complete!
+Created symlink /etc/systemd/system/getty.target.wants/serial-getty@ttyS0.service -> /usr/lib/systemd/system/serial-getty@.service.
+Running `grub2-mkconfig -o /boot/efi/EFI/redhat/grub.cfg' will overwrite the GRUB wrapper.
+Please run `grub2-mkconfig -o /boot/grub2/grub.cfg' instead to update grub.cfg.
+GRUB configuration file was not updated.
+Removed "/etc/systemd/system/default.target".
+Created symlink /etc/systemd/system/default.target -> /usr/lib/systemd/system/multi-user.target.
